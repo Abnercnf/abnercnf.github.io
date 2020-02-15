@@ -1,5 +1,5 @@
 # abnercnf.io
-This repository was made for showing how I choose to be a programmer
+This repository was made for showing the why I choose to be a programmer
 
 Here you'll see my portfolio and a few things about me.
 
